@@ -8,7 +8,7 @@ variable "rg_name" {
 }
 
 variable "location" {
-  description = "Azure region"
+  description = "Azure region1"
   type        = string
 }
 output "resource_group_name" {
